@@ -1,0 +1,21 @@
+{
+  "name": "FLUX Prompt Studio",
+  "short_name": "FLUX Studio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10111b",
+  "theme_color": "#10111b",
+  "description": "Offline helper for writing FLUX.2 Klein 9B prompts.",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
